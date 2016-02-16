@@ -30,3 +30,21 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/app/build/outputs/apk
+/.idea/gradle.xml
+/.idea/misc.xml
+/PayUMoneySDK-Android-master/PayUMoneySDK-Android-master.iml
+/app/app.iml
+/bumper.android.iml
+/.idea/encodings.xml
+/app/app-release.apk
+/app/app-production-release.apk
+/citruspay-sdk-ui/citruspay-sdk.iml
+/PayUMoneySDK-Android-master
